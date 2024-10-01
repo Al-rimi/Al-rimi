@@ -7,6 +7,16 @@
 - 💬 Ask me about Full stack development with PHP, Laravel, JS, CSS, HTML, or building responsive applications.
 - ⚡ Fun fact: I’m multilingual—comfortable coding in multiple languages and speaking in English, Arabic, and Chinese!
 
+## 🤝 Collaborations & Projects
+
+I'm always looking for new opportunities and collaborations. If you have an exciting project in mind or would like to work together, feel free to reach out! Let's create something amazing together!
+
+## 📫 How to Reach Me
+
+- **Email**: [abdullah@syalux.com](mailto:abdullah@syalux.com)
+- **WhatsApp**: [+8619708819040](https://wa.me/8619708819040)
+- **LinkedIn**: [Connect with me](https://linkedin.com/in/abdullah-alraimi)
+
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdullah-alraimi)
@@ -45,10 +55,9 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Adobe Animatea](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
 # 📊 GitHub Stats:
