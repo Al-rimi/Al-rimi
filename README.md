@@ -14,8 +14,8 @@ I'm always looking for new opportunities and collaborations. If you have an exci
 ## 📫 How to Reach Me
 
 - **Email**: [abdullah@syalux.com](mailto:abdullah@syalux.com)
-- **WhatsApp**: [+8619708819040](https://wa.me/8619708819040)
-- **LinkedIn**: [Connect with me](https://linkedin.com/in/abdullah-alraimi)
+- **WhatsApp**: [+86 197 0881 9040](https://wa.me/8619708819040)
+- **LinkedIn**: [abdullah-alraimi](https://linkedin.com/in/abdullah-alraimi)
 
 ## 🌐 Socials:
 
