@@ -1,15 +1,11 @@
 # 💫 About Me
 
-- 🚀 **Full-Stack Developer** working with **PHP** & **Laravel** to build dynamic web apps.
+- 🚀 **Full-Stack Developer** working with **Laravel**, **Node.js**, **MySQL** to build dynamic web apps.
 - 💡 Open to **collaborations** on **cutting-edge web & mobile projects**—Laravel and Android are my playgrounds!
 - ☁️ **Exploring** advanced backend architecture and cloud services.
 - 📱 **Learning** mobile development with Android Studio to bring ideas to life beyond the web.
 - 🔥 **Tech Stack Guru**—ask me about **PHP, Laravel, JavaScript, CSS, HTML**, and creating **responsive, interactive apps**.
 - 🌍 **Multilingual** coder who can switch between programming languages as easily as switching between **English, Arabic, and Chinese**!
-
-## 🤝 Collaborations & Projects
-
-I'm always looking for new opportunities and collaborations. If you have an exciting project in mind or would like to work together, feel free to reach out! Let's create something amazing together!
 
 ## 📫 How to Reach Me
 
