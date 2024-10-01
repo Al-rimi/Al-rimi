@@ -1,6 +1,6 @@
 # About Me
 
-- **Full-Stack Development:** Experienced in <code>Laravel</code>, <code>PHP</code>, <code>Blade</code>, <code>Node.js</code>, and <code>Tailwind</code> since 2022.
+- **Full-Stack Development:** Experienced in <code>Laravel</code> <code>PHP</code> <code>Blade</code> <code>Node.js</code> <code>Tailwind</code> since 2022.
 - **Computer Science:** Studying at Zhejiang Normal University, expected to graduate in 2027.
 - **Multilingual:** Fluent in English, Arabic, and Chinese.
 
