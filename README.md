@@ -1,4 +1,4 @@
-# 💫 About Me
+# 💫 Who am I
 
 - **Full-Stack:** **Laravel**, **MySQL**, **Node.js**, and **Tailwind**
 - **Learning** mobile development with Android Studio to bring ideas beyond just the web.
