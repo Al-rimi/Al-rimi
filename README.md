@@ -6,9 +6,9 @@
 
 ### How to Reach Me
 
-- **Email**: [abdullah@syalux.com](mailto:abdullah@syalux.com)
-- **WhatsApp**: [+86 197 0881 9040](https://wa.me/8619708819040)
-- **LinkedIn**: [abdullah-alraimi](https://linkedin.com/in/abdullah-alraimi)
+- **Email**: <kbd><a href="mailto:abdullah@syalux.com">abdullah@syalux.com</a></kbd>
+- **WhatsApp**: <kbd><a href="https://wa.me/8619708819040" target="_blank">+86 197 0881 9040</a></kbd>
+- **LinkedIn**: <kbd><a href="https://linkedin.com/in/abdullah-alraimi" target="_blank">abdullah-alraimi</a></kbd>
 
 ## 🌐 Socials:
 
