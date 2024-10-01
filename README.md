@@ -1,9 +1,8 @@
 # About me
 
 - **Full-Stack:** <code>Laravel</code>, <code>MySQL</code>, <code>Node.js</code>, and <code>Tailwind</code>
-- **Learning:** Mobile development with <code>Android Studio</code> to bring ideas beyond just the web.
-- **Multilingual:** <code>English</code>, <code>Arabic</code>, and <code>Chinese</code>!
-
+- **Learning** mobile development with Android Studio to bring ideas beyond just the web.
+- **Multilingual** English, Arabic, and Chinese!
 
 ### How to Reach Me
 
