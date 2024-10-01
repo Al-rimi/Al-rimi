@@ -10,6 +10,8 @@
 - **WhatsApp**: [+86 19708819040](https://wa.me/8619708819040)
 - **LinkedIn**: [abdullah-alraimi](https://linkedin.com/in/abdullah-alraimi)
 
+---
+
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdullah-alraimi)
