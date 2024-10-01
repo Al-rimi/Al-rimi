@@ -1,10 +1,10 @@
-# 💫 Who am I
+# About me
 
 - **Full-Stack:** **Laravel**, **MySQL**, **Node.js**, and **Tailwind**
 - **Learning** mobile development with Android Studio to bring ideas beyond just the web.
 - **Multilingual** English, Arabic, and Chinese!
 
-## 📫 How to Reach Me
+### How to Reach Me
 
 - **Email**: [abdullah@syalux.com](mailto:abdullah@syalux.com)
 - **WhatsApp**: [+86 197 0881 9040](https://wa.me/8619708819040)
