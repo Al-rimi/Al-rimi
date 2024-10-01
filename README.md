@@ -4,12 +4,6 @@
 - **Learning** mobile development with Android Studio to bring ideas beyond just the web.
 - **Multilingual** English, Arabic, and Chinese!
 
-分享一下你的个人优势吧
-
-- 🌟 我是一名全栈开发者，精通 **PHP**、**Laravel**、**MySQL**、**Node.js** 和 **Tailwind CSS**，擅长构建高效的动态网站和应用程序。
-- 🔥 我乐于挑战新技术，拥有多语言能力，可以自如切换于 **英语** 和 **阿拉伯语** 进行开发和交流！不过，我还在学习 **中文** 哦。
-
-
 ### How to Reach Me
 
 - **Email**: [abdullah@syalux.com](mailto:abdullah@syalux.com)
@@ -58,6 +52,33 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+
+
+# 💻 Tech Stack:
+
+| Technology      | Experience Level |
+|-----------------|------------------|
+| ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) | ██████████ 90% |
+| ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) | ███████▒▒▒ 70% |
+| ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) | ██████▒▒▒▒ 60% |
+| ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) | ██████████ 95% |
+| ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) | ████████▒▒ 80% |
+| ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | ████████▒▒ 80% |
+| ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) | █████▒▒▒▒▒ 50% |
+| ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) | █████▒▒▒▒▒ 50% |
+| ![GitHub Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) | ████▒▒▒▒▒▒ 40% |
+| ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) | ████▒▒▒▒▒▒ 40% |
+| ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) | █████████▒ 85% |
+| ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) | ██████▒▒▒▒ 60% |
+| ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) | ███████▒▒▒ 70% |
+| ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) | ███▒▒▒▒▒▒▒ 30% |
+| ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) | ███████▒▒▒ 75% |
+| ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) | ████▒▒▒▒▒▒ 45% |
+| ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) | ███▒▒▒▒▒▒▒ 30% |
+| ![Adobe Animate](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) | ███▒▒▒▒▒▒▒ 25% |
+| ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) | ██████████ 100% |
+| ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) | ████████▒▒ 85% |
+| ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) | █████▒▒▒▒▒ 50% |
 
 # 📊 GitHub Stats:
 
