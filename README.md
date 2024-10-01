@@ -6,10 +6,9 @@
 
 ### How to Reach Me
 
-- **Email**: <mark><a href="mailto:abdullah@syalux.com" target="_blank" style="color: inherit; text-decoration: none;">abdullah@syalux.com</a></mark>
-- **WhatsApp**: <kbd><a href="https://wa.me/8619708819040" target="_blank" style="color: inherit; text-decoration: none;">+86 197 0881 9040</a></kbd>
-- **LinkedIn**: <kbd><a href="https://linkedin.com/in/abdullah-alraimi" target="_blank" style="color: inherit; text-decoration: none;">abdullah-alraimi</a></kbd>
-
+- **Email**: <a href="mailto:abdullah@syalux.com" target="_blank">abdullah@syalux.com</a>
+- **WhatsApp**: <a href="https://wa.me/8619708819040" target="_blank">+86 197 0881 9040</a>
+- **LinkedIn**: <a href="https://linkedin.com/in/abdullah-alraimi" target="_blank">abdullah-alraimi</a>
 
 ## 🌐 Socials:
 
