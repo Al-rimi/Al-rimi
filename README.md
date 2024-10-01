@@ -36,14 +36,22 @@
 
 | Technology      | Experience Level |
 |-----------------|------------------|
-| ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) | <div style="background-color: #ddd; width: 100%; height: 20px; display: inline-block;"><div style="background-color: #4479A1; width: 75%; height: 20px;"></div></div> |
-| ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) | <div style="background-color: #ddd; width: 100%; height: 20px; display: inline-block;"><div style="background-color: #777BB4; width: 90%; height: 20px;"></div></div> |
-| ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) | <div style="background-color: #ddd; width: 100%; height: 20px; display: inline-block;"><div style="background-color: #FF2D20; width: 85%; height: 20px;"></div></div> |
-| ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) | <div style="background-color: #ddd; width: 100%; height: 20px; display: inline-block;"><div style="background-color: #8511FA; width: 70%; height: 20px;"></div></div> |
-| ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) | <div style="background-color: #ddd; width: 100%; height: 20px; display: inline-block;"><div style="background-color: #F05033; width: 70%; height: 20px;"></div></div> |
-| ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) | <div style="background-color: #ddd; width: 100%; height: 20px; display: inline-block;"><div style="background-color: #6DA55F; width: 50%; height: 20px;"></div></div> |
-
-
+| ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) | █████████████████ 75% |
+| ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) | ████████████████████ 90% |
+| ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) | ███████████████████ 85% |
+| ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) | █████████████████ 70% |
+| ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) | █████████████████ 70% |
+| ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) | ███████████████ 50% |
+| ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | ██████████████████ 80% |
+| ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) | ████████████████████ 95% |
+| ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) | ███████████████████ 90% |
+| ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) | █████████████████ 70% |
+| ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) | █████████████ 30% |
+| ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) | ████████████████ 50% |
+| ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) | ██████████████ 40% |
+| ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) | ████████████████████ 95% |
+| ![Adobe Animate](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) | ███████████████████ 85% |
+| ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) | █████████████████ 70% |
 
 </div>
 
