@@ -1,10 +1,9 @@
 # 💫 About Me
 
-- **Full-Stack Developer** working with **Laravel**, **Node.js**, **MySQL**.
+- **Full-Stack Developer** working with **Laravel**, **MySQL**, **Node.js** and **Tailwind**.
 - Open to **collaborations** on **cutting-edge web & mobile projects**—Laravel and Android are my playgrounds!
-- **Exploring** advanced backend architecture and cloud services.
 - **Learning** mobile development with Android Studio to bring ideas to life beyond the web.
-- **Tech Stack Guru**—ask me about **PHP, Laravel, JavaScript, CSS, HTML**, and creating **responsive, interactive apps**.
+- **Tech Stack Guru**—ask me about **PHP, Laravel, Node.js, Tailwind CSS**, and creating **responsive, interactive apps**.
 - **Multilingual** coder who can switch between programming languages as easily as switching between **English, Arabic, and Chinese**!
 
 ## 📫 How to Reach Me
