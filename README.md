@@ -30,7 +30,7 @@
 
 </div>
 
-### 💻 Tech Stack:
+## 💻 Tech Stack:
 
 <div align="center">
 
@@ -55,13 +55,7 @@
 
 </div>
 
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Al-rimi&theme=dark&hide_border=false)
-
-</div>
-
-## 💰 You can help me by Donating
+# 💰 You can help me by Donating
 
 <div align="center">
 
