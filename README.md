@@ -6,12 +6,12 @@
 
 ### How to Reach Me
 
-- **Email**: <a href="mailto:abdullah@syalux.com" target="_blank">abdullah@syalux.com</a>
-- **WhatsApp**: <a href="https://wa.me/8619708819040" target="_blank">+86 197 0881 9040</a>
-- **LinkedIn**: <a href="https://linkedin.com/in/abdullah-alraimi" target="_blank">abdullah-alraimi</a>
+- **Email**: [abdullah@syalux.com](mailto:abdullah@syalux.com)
+- **WhatsApp**: [+86 19708819040](https://wa.me/8619708819040)
+- **LinkedIn**: [abdullah-alraimi](https://linkedin.com/in/abdullah-alraimi)
 
 ## 🌐 Socials:
-
+<div align="center">
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdullah-alraimi)
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/akgg)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/al_raimi)
@@ -28,7 +28,7 @@
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ak-71)
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Abdullah-Alraimi)
 [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@alraimi)
-
+</div>
 # 💻 Tech Stack:
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
