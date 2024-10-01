@@ -4,6 +4,12 @@
 - **Learning** mobile development with Android Studio to bring ideas beyond just the web.
 - **Multilingual** English, Arabic, and Chinese!
 
+分享一下你的个人优势吧
+
+- 🌟 我是一名全栈开发者，精通 **PHP**、**Laravel**、**MySQL**、**Node.js** 和 **Tailwind CSS**，擅长构建高效的动态网站和应用程序。
+- 🔥 我乐于挑战新技术，拥有多语言能力，可以自如切换于 **英语** 和 **阿拉伯语** 进行开发和交流！不过，我还在学习 **中文** 哦。
+
+
 ### How to Reach Me
 
 - **Email**: [abdullah@syalux.com](mailto:abdullah@syalux.com)
