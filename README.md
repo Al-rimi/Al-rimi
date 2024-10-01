@@ -79,3 +79,12 @@ I'm always looking for new opportunities and collaborations. If you have an exci
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/alrimi) 
 [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/alrimi) 
 
+
+## 🎉 Thank You!
+
+Thank you for visiting my profile! I appreciate your support and interest in my work. Feel free to follow me on my social media channels to stay updated on my latest projects and adventures in tech!
+
+---
+
+![Thank You](https://img.shields.io/badge/Thank%20You-%23FF0000?style=for-the-badge&logo=thank-you&logoColor=white)
+
