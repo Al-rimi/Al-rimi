@@ -6,7 +6,7 @@
 
 ### How to Reach Me
 
-- **Email**: <code><a target="_blank" href="mailto:abdullah@syalux.com">abdullah@syalux.com</a></code>
+- **Email**: <mark><a href="mailto:abdullah@syalux.com">abdullah@syalux.com</a></mark>
 - **WhatsApp**: <kbd><a target="_blank" href="https://wa.me/8619708819040" target="_blank">+86 19708819040</a></kbd>
 - **LinkedIn**: <kbd><a target="_blank" href="https://linkedin.com/in/abdullah-alraimi" target="_blank">abdullah-alraimi</a></kbd>
 
