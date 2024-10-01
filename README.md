@@ -30,7 +30,7 @@
 
 </div>
 
-# 💻 Tech Stack:
+### 💻 Tech Stack:
 
 <div align="center">
 
@@ -54,8 +54,6 @@
 | ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) | ███████ 70% |
 
 </div>
-
-# 📊 GitHub Stats:
 
 <div align="center">
 
