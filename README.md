@@ -21,7 +21,7 @@
 
 </div>
 
-## 💰 You can help me by Donating
+## Support Me
 
 <div align="center">
 
