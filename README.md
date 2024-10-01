@@ -5,7 +5,7 @@
 - **Multilingual:** Fluent in English, Arabic, and Chinese.
 
 
-### How to Reach Me
+#### How to Reach Me
 
 - **Email**: [abdullah@syalux.com](mailto:abdullah@syalux.com)
 - **WhatsApp**: [+86 19708819040](https://wa.me/8619708819040)
@@ -22,8 +22,7 @@
 </div>
 
 
----
-### Support Me
+## Support Me
 
 <div align="center">
 
