@@ -1,4 +1,4 @@
-# About Me
+## About Me
 
 - **Full-Stack Development:** Experienced in <code>Laravel</code> <code>PHP</code> <code>Blade</code> <code>Node.js</code> <code>Tailwind</code> since 2022.
 - **Computer Science:** Studying at Zhejiang Normal University, expected to graduate in 2027.
@@ -8,7 +8,7 @@
 #### How to Reach Me
 
 - **Email**: [abdullah@syalux.com](mailto:abdullah@syalux.com)
-- **WhatsApp**: [+86 19708819040](https://wa.me/8619708819040)
+- **WhatsApp**: [+8619708819040](https://wa.me/8619708819040)
 
 <div align="center">
 
