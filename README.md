@@ -1,3 +1,5 @@
+<div align="center">
+
 # About me
 
 - **Full-Stack:** <code>Laravel</code>, <code>MySQL</code>, <code>Node.js</code>, and <code>Tailwind</code>
@@ -56,6 +58,8 @@
 
 # 💻 Tech Stack:
 
+<div align="center">
+
 | Technology      | Experience Level |
 |-----------------|------------------|
 | ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) | ██████████ 90% |
@@ -80,16 +84,12 @@
 | ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) | ████████▒▒ 85% |
 | ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) | █████▒▒▒▒▒ 50% |
 
+</div>
+
 # 📊 GitHub Stats:
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Al-rimi&theme=dark&hide_border=false)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Al-rimi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## GitHub Trophies:
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Al-rimi&theme=dark&no-frame=false&no-bg=false&margin-w=4)
-
----
 
 ## 💰 You can help me by Donating
 
@@ -97,3 +97,5 @@
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/rumaisaalrimi)
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/alrimi) 
 [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/alrimi) 
+
+</div>
