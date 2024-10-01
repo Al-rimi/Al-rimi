@@ -61,14 +61,11 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Al-rimi&theme=dark&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Al-rimi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact
-
 </div>
 
 ## 💰 You can help me by Donating
 
 <div align="center">
-
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/alrimi)
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/rumaisaalrimi)
