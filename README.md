@@ -1,6 +1,6 @@
 # 💫 About Me
 
-- **Full-Stack Developer** working with **Laravel**, **Node.js**, **MySQL** to build dynamic web apps.
+- **Full-Stack Developer** working with **Laravel**, **Node.js**, **MySQL**.
 - Open to **collaborations** on **cutting-edge web & mobile projects**—Laravel and Android are my playgrounds!
 - **Exploring** advanced backend architecture and cloud services.
 - **Learning** mobile development with Android Studio to bring ideas to life beyond the web.
