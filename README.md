@@ -1,8 +1,9 @@
-# About me
+# About Me
 
-- **Full-Stack:** Using <code>Laravel</code>, <code>MySQL</code>, <code>Node.js</code>, and <code>Tailwind</code> from 2022
-- **Learning** mobile development with Android Studio to bring ideas beyond just the web.
-- **Multilingual** English, Arabic, and Chinese!
+- **Full-Stack Development:** Experienced in <code>Laravel</code>, <code>PHP</code>, <code>Blade</code>, <code>Node.js</code>, and <code>Tailwind</code> since 2022.
+- **Computer Science Student:** Studying at Zhejiang Normal University, expected to graduate in 2027.
+- **Multilingual:** Fluent in English, Arabic, and Chinese.
+
 
 ### How to Reach Me
 
