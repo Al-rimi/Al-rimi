@@ -1,6 +1,6 @@
 # About me
 
-- **Full-Stack:** <code>Laravel</code>, <code>MySQL</code>, <code>Node.js</code>, and <code>Tailwind</code>
+- **Full-Stack:** Using <code>Laravel</code>, <code>MySQL</code>, <code>Node.js</code>, and <code>Tailwind</code> from 2022
 - **Learning** mobile development with Android Studio to bring ideas beyond just the web.
 - **Multilingual** English, Arabic, and Chinese!
 
