@@ -58,7 +58,7 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Al-rimi&theme=dark&hide_border=false)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Al-rimi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies:
+## GitHub Trophies:
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Al-rimi&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
