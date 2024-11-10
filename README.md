@@ -1,14 +1,12 @@
 ## About Me
 
-- **Full-Stack Development:** Experienced in <code>Laravel</code> <code>PHP</code> <code>Blade</code> <code>Node.js</code> <code>Tailwind</code> since 2022.
+- **Full-Stack:** <code>Laravel</code> <code>PHP</code> <code>Blade</code> <code>Node.js</code> <code>Tailwind</code>.
 - **Computer Science:** Studying at Zhejiang Normal University, expected to graduate in 2027.
-- **Multilingual:** Fluent in English, Arabic, and Chinese.
-
 
 #### How to Reach Me
 
-- **Email**: [abdullah@syalux.com](mailto:abdullah@syalux.com)
-- **WhatsApp**: [+8619708819040](https://wa.me/8619708819040)
+[![Email](https://img.shields.io/badge/Email-D14836.svg?logo=gmail&logoColor=white)](mailto:abdullah@syalux.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366.svg?logo=whatsapp&logoColor=white)](https://wa.me/8619708819040)
 
 <div align="center">
 
