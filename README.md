@@ -1,6 +1,6 @@
 ## About Me
 
-- **Full-Stack Tools:**  [![Laravel](https://img.shields.io/badge/-FF2D20?style=square&logo=laravel&logoColor=white)](https://laravel.com)  [![Node.js](https://img.shields.io/badge/-339933?style=square&logo=nodedotjs&logoColor=white)](https://nodejs.org)  [![Bootstrap](https://img.shields.io/badge/-563D7C?style=square&logo=bootstrap&logoColor=white)](https://getbootstrap.com)  [![Tailwind CSS](https://img.shields.io/badge/-38B2AC?style=square&logo=tailwind-css&logoColor=white)](https://tailwindcss.com)
+- **Full-Stack Tools:**  [![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white)](https://laravel.com)  [![Node.js](https://img.shields.io/badge/Node.js-339933.svg?logo=nodedotjs&logoColor=white)](https://nodejs.org)  [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C.svg?logo=bootstrap&logoColor=white)](https://getbootstrap.com)  [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC.svg?logo=tailwind-css&logoColor=white)](https://tailwindcss.com)
 
 - **Human Languages:** Arabic, English, and <sup><sub>Chinese</sub></sup>  
 
@@ -18,6 +18,7 @@
 [![Instagram](https://img.shields.io/badge/-E4405F?style=square&logo=instagram&logoColor=white)](https://instagram.com/ak._.71) 
 [![YouTube](https://img.shields.io/badge/-FF0000?style=square&logo=youtube&logoColor=white)](https://youtube.com/@ak-71) 
 [![X](https://img.shields.io/badge/-000000?style=square&logo=x&logoColor=white)](https://x.com/ggak71) 
+[![Snapchat](https://img.shields.io/badge/-FFFC00?style=square&logo=snapchat&logoColor=black)](https://snapchat.com/add/yourusername)
 [![BuyMeACoffee](https://img.shields.io/badge/-ffdd00?style=square&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/alrimi) 
 [![PayPal](https://img.shields.io/badge/-00457C?style=square&logo=paypal&logoColor=white)](https://paypal.me/rumaisaalrimi) 
 [![Ko-Fi](https://img.shields.io/badge/-F16061?style=square&logo=ko-fi&logoColor=white)](https://ko-fi.com/alrimi)
