@@ -1,10 +1,10 @@
 ## About Me (aka, Your Friendly Code Whisperer)
 
 - **Full-Stack Powers:**  
-  [![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white)](#)  
-  [![Node.js](https://img.shields.io/badge/Node.js-339933.svg?logo=nodedotjs&logoColor=white)](#)  
-  [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C.svg?logo=bootstrap&logoColor=white)](#)  
-  [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC.svg?logo=tailwind-css&logoColor=white)](#)  
+  [![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white)]
+  [![Node.js](https://img.shields.io/badge/Node.js-339933.svg?logo=nodedotjs&logoColor=white)] 
+  [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C.svg?logo=bootstrap&logoColor=white)]
+  [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC.svg?logo=tailwind-css&logoColor=white)]
 
 - **Human Languages:** Arabic, English, and Chinese <sup><sub>(just a little)</sub></sup>
 
