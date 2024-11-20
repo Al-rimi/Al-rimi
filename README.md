@@ -1,9 +1,21 @@
 ## About Me
 
-- **Tech Stacks:** ![PHP](https://img.icons8.com/ios/452/php-logo.png) ![Laravel](https://img.icons8.com/ios/452/laravel.png) ![MySQL](https://img.icons8.com/ios/452/mysql-logo.png) ![Node.js](https://img.icons8.com/ios/452/nodejs.png) ![JavaScript](https://img.icons8.com/ios/452/javascript.png) ![Tailwind CSS](https://img.icons8.com/ios/452/tailwindcss.png) ![Java](https://img.icons8.com/ios/452/java.png) ![Kotlin](https://img.icons8.com/ios/452/kotlin.png) ![Android Studio](https://img.icons8.com/ios/452/android-studio.png) ![Adobe Animate](https://img.icons8.com/ios/452/adobe-animate.png) ![Adobe Photoshop](https://img.icons8.com/ios/452/adobe-photoshop.png) ![GIMP](https://img.icons8.com/ios/452/gimp.png)
+- **Tech Stacks:**  
+![PHP](https://img.icons8.com/ios/50/php-logo.png) ![Laravel](https://img.icons8.com/ios/50/laravel.png) ![MySQL](https://img.icons8.com/ios/50/mysql-logo.png) ![Node.js](https://img.icons8.com/ios/50/nodejs.png) ![JavaScript](https://img.icons8.com/ios/50/javascript.png) ![Tailwind CSS](https://img.icons8.com/ios/50/tailwindcss.png) ![Java](https://img.icons8.com/ios/50/java.png) ![Kotlin](https://img.icons8.com/ios/50/kotlin.png) ![Android Studio](https://img.icons8.com/ios/50/android-studio.png) ![Adobe Animate](https://img.icons8.com/ios/50/adobe-animate.png) ![Adobe Photoshop](https://img.icons8.com/ios/50/adobe-photoshop.png) ![GIMP](https://img.icons8.com/ios/50/gimp.png)
 
 - **Human Languages:** Arabic, English, and <sup><sub>Chinese</sub></sup>  
 - **Computer Science Padawan:** Studying at 浙江师范大学 (ZJNU)
 
-### How to Reach Me (I don’t bite):  [![Snapchat](https://img.shields.io/badge/-FFFC00?style=square&logo=snapchat&logoColor=black)](https://snapchat.com/add/aboodki6)  [![WhatsApp](https://img.shields.io/badge/-25D366?style=square&logo=whatsapp&logoColor=white)](https://wa.me/8619708819040)  [![Instagram](https://img.shields.io/badge/-E4405F?style=square&logo=instagram&logoColor=white)](https://instagram.com/ak._.71)  [![Email](https://img.shields.io/badge/-D14836?style=square&logo=gmail&logoColor=white)](mailto:abdullah@syalux.com)  [![X](https://img.shields.io/badge/-000000?style=square&logo=x&logoColor=white)](https://x.com/ggak71)  [![LinkedIn](https://img.shields.io/badge/-0077B5?style=square&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdullah-alraimi)  [![Reddit](https://img.shields.io/badge/-FF4500?style=square&logo=reddit&logoColor=white)](https://reddit.com/user/Al-rimi)  [![Stack Overflow](https://img.shields.io/badge/-FE7A16?style=square&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/24881320)  [![YouTube](https://img.shields.io/badge/-FF0000?style=square&logo=youtube&logoColor=white)](https://youtube.com/@ak-71)  [![PayPal](https://img.shields.io/badge/-00457C?style=square&logo=paypal&logoColor=white)](https://paypal.me/rumaisaalrimi)  [![BuyMeACoffee](https://img.shields.io/badge/-ffdd00?style=square&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/alrimi)  [![Ko-Fi](https://img.shields.io/badge/-F16061?style=square&logo=ko-fi&logoColor=white)](https://ko-fi.com/alrimi)
-
+### How to Reach Me (I don’t bite):  
+[![Snapchat](https://img.icons8.com/color/50/snapchat.png)](https://snapchat.com/add/aboodki6)  
+[![WhatsApp](https://img.icons8.com/color/50/whatsapp.png)](https://wa.me/8619708819040)  
+[![Instagram](https://img.icons8.com/color/50/instagram-new.png)](https://instagram.com/ak._.71)  
+[![Email](https://img.icons8.com/color/50/gmail.png)](mailto:abdullah@syalux.com)  
+[![X](https://img.icons8.com/color/50/twitter.png)](https://x.com/ggak71)  
+[![LinkedIn](https://img.icons8.com/color/50/linkedin.png)](https://linkedin.com/in/abdullah-alraimi)  
+[![Reddit](https://img.icons8.com/color/50/reddit.png)](https://reddit.com/user/Al-rimi)  
+[![Stack Overflow](https://img.icons8.com/color/50/stackoverflow.png)](https://stackoverflow.com/users/24881320)  
+[![YouTube](https://img.icons8.com/color/50/youtube-play.png)](https://youtube.com/@ak-71)  
+[![PayPal](https://img.icons8.com/color/50/paypal.png)](https://paypal.me/rumaisaalrimi)  
+[![BuyMeACoffee](https://img.icons8.com/color/50/buy-me-a-coffee.png)](https://buymeacoffee.com/alrimi)  
+[![Ko-Fi](https://img.icons8.com/color/50/ko-fi.png)](https://ko-fi.com/alrimi)
