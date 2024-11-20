@@ -1,6 +1,7 @@
 ## About Me
 
-- **Tech Stacks:** ![PHP](https://img.stackshare.io/service/991/hk8fzxlf8xy3js8ch3f4.png) ![Laravel](https://img.stackshare.io/service/1321/logo.png) ![MySQL](https://img.stackshare.io/service/1023/logo.png) ![Node.js](https://img.stackshare.io/service/1020/OYIaJ1KK.png) ![JavaScript](https://img.stackshare.io/service/1209/javascript.jpeg) ![Tailwind CSS](https://img.stackshare.io/service/10443/default_c06c6342e7b6e928383a5e37e9cb4019.png) ![Java](https://img.stackshare.io/service/1368/java.png) ![Kotlin](https://img.stackshare.io/service/10181/kotlin.png) ![Android Studio](https://img.stackshare.io/service/10429/70HGCY1R_400x400.png) ![Adobe Animate](https://img.stackshare.io/service/5484/default_5a099c92326b5c006ef3d168fc78f6c8.png) ![Adobe Photoshop](https://img.stackshare.io/service/5183/photoshop.png) ![GIMP](https://img.stackshare.io/service/3420/xsKkCPTK.jpg)
+- **Tech Stacks:** ![PHP](https://img.icons8.com/ios/452/php-logo.png) ![Laravel](https://img.icons8.com/ios/452/laravel.png) ![MySQL](https://img.icons8.com/ios/452/mysql-logo.png) ![Node.js](https://img.icons8.com/ios/452/nodejs.png) ![JavaScript](https://img.icons8.com/ios/452/javascript.png) ![Tailwind CSS](https://img.icons8.com/ios/452/tailwindcss.png) ![Java](https://img.icons8.com/ios/452/java.png) ![Kotlin](https://img.icons8.com/ios/452/kotlin.png) ![Android Studio](https://img.icons8.com/ios/452/android-studio.png) ![Adobe Animate](https://img.icons8.com/ios/452/adobe-animate.png) ![Adobe Photoshop](https://img.icons8.com/ios/452/adobe-photoshop.png) ![GIMP](https://img.icons8.com/ios/452/gimp.png)
+
 - **Human Languages:** Arabic, English, and <sup><sub>Chinese</sub></sup>  
 - **Computer Science Padawan:** Studying at 浙江师范大学 (ZJNU)
 
