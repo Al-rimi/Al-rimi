@@ -1,18 +1,18 @@
 ## About Me
 
 - **Tech Stacks:**  
-  ![PHP](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg =32x32) 
-  ![Laravel](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg =32x32) 
-  ![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg =32x32) 
-  ![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg =32x32) 
-  ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg =32x32) 
-  ![Tailwind CSS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg =32x32) 
-  ![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg =32x32) 
-  ![Kotlin](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg =32x32) 
-  ![Android Studio](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg =32x32) 
-  ![Adobe Animate](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/animatecc/animatecc-original.svg =32x32) 
-  ![Adobe Photoshop](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg =32x32) 
-  ![GIMP](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg =32x32)
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="32" height="32"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="32" height="32"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="32" height="32"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="32" height="32"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32" height="32"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="32" height="32"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="32" height="32"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="32" height="32"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="32" height="32"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/animatecc/animatecc-original.svg" width="32" height="32"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" width="32" height="32"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" width="32" height="32">
 
 - **Human Languages:** Arabic, English, and <sup><sub>Chinese</sub></sup>  
 - **Computer Science Padawan:** Studying at 浙江师范大学 (ZJNU)
