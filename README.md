@@ -5,7 +5,7 @@
 
 
 - **Human Languages:** Arabic, English, and <sup><sub>Chinese</sub></sup>  
-- **Computer Science Padawan:** Studying at 浙江师范大学 (ZJNU)
+- **Computer Science:** Studying at 浙江师范大学 (ZJNU)
 
 ### How to Reach Me (I don’t bite):  
 <div align="center">
